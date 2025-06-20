@@ -15,12 +15,6 @@ This project allows users to view a collection of images in a grid layout and op
 - Simple, lightweight, and fast-loading
 - Modular code with separate HTML, CSS, and JS files
 
-
-## 📸 Preview
-
-> Add screenshot image here (optional but recommended)  
-> ![gallery-preview](https://github.com/your-username/CodeAlpha_ImageGallery/assets/...)
-
 ---
 
 ## 🧠 Technologies Used
@@ -41,5 +35,5 @@ This project is submitted as **Task 1: Image Gallery** for the **CodeAlpha Front
 
 ## 🚀 Live Demo
 
-🌐 [View the project live](https://shreya011-png.github.io/CodeAlpha_ImageGallery/)
+🌐 https://shreya011-png.github.io/CodeAlpha_imagegallery/ 
 
